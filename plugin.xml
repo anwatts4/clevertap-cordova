@@ -133,7 +133,6 @@
         <framework src="com.clevertap.android:clevertap-android-sdk:3.3.2" />
 
         <hook type="after_plugin_add" src="scripts/androidAfterPluginAdd.js" />
-	<hook type="after_prepare" src="scripts/androidAfterPluginAdd.js" />
 
     </platform>
 </plugin>
